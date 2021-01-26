@@ -1,0 +1,20 @@
+{
+    "bg": "/QuizBackground.jpg",
+    "title": "Quiz Alura",
+    "description": "Teste seu conhecimento de SQL básico",
+    "questions": [],
+    "external": [
+        ""
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#8FB339",
+            "secondary": "#C7D59F",
+            "mainBG": "#DADDD8",
+            "contrastText": "#FFFFFF",
+            "wrong": "#D81E5B",
+            "success": "#336699"
+        },
+        "borderRadius": "4px"
+    }
+}
